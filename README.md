@@ -28,3 +28,7 @@ d（删除当前行）
 
 ／regular /d  \(删除包含regular的行\)
 
+g／regular /d \(删除包含regular的所有行\)
+
+
+
