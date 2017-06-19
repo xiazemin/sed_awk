@@ -36,3 +36,9 @@ g／regular /d \(删除包含regular的所有行\)
 
 ![](/assets/imported.png)
 
+grep实际上是来源于命令
+
+g/re/p \(全局正则式打印）
+
+
+
