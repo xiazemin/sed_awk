@@ -34,5 +34,5 @@ g／regular /d \(删除包含regular的所有行\)
 
 1（地址）s/4（模式）/24（替换成的对象）/ g（一行多次出现，替换）
 
-
+![](/assets/imported.png)
 
